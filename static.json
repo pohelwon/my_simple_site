@@ -1,0 +1,6 @@
+{
+    "root": ".",
+    "https_only": true,
+    "error_page": "index.html"
+  }
+  
